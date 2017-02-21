@@ -1,0 +1,23 @@
+{
+  "name": "npm-qrcode-generator",
+  "version": "1.0.0",
+  "description": "npm qrcode generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplonco/npm-qrcode-generator.git"
+  },
+  "author": "David Ostermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplonco/npm-qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/simplonco/npm-qrcode-generator#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "qrcodejs": "^1.0.0"
+  }
+}
